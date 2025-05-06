@@ -1,0 +1,47 @@
+# title: "Israt's Homepage"
+# description: "Computer Vision | Deep Learning | Data Augmentation | AI Research"
+
+# # Keep your existing theme or switch to Minima
+# theme: jekyll-theme-minimal
+
+# # Enable Jekyll Plugins
+# plugins:
+#   - jekyll-data
+
+# # Include `_data/projects.yml` for dynamic content
+# include:
+#   - _data/projects.yml
+
+# # # Set base URL if using a custom domain (optional)
+# # baseurl: ""
+# # url: "https://ie0005.github.io"
+
+# # Markdown settings
+# markdown: kramdown
+title: "Israt's Homepage"
+description: "Computer Vision | Deep Learning | Data Augmentation | AI Research"
+
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-data
+
+include:
+  - _data/projects.yml
+  - _data/publications.yml
+  - _data/posters.yml
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+  publications:
+    output: true
+    permalink: /publications/:path/
+  posters:
+    output: true
+    permalink: /posters/:path/
+
+markdown: kramdown
+
+

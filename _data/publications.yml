@@ -1,0 +1,62 @@
+- title: "In-Situ Melt Pool Characterization via Thermal Imaging for Defect Detection in Directed Energy Deposition Using Vision Transformers"
+  authors: "Israt Zarin Era, Fan Zhou, Ahmed Shoyeb Raihan, Imtiaz Ahmed, Alan Abul-Haj, James Craig, Srinjoy Das, Zhichao Liu"
+  description: "This paper presents a Vision Transformer-based framework that integrates self-supervised learning with Masked Autoencoder (MAE) and supervised classification to detect anomalies in melt pools of Directed Energy Deposition (DED) printed parts, achieving an accuracy of up to 99.17%."
+  images:
+    - "/assets/img/framework_MAE.png"
+    - "/assets/img/cvs_new.png"
+  skills:
+    - '<img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python">'
+    - '<img src="https://img.shields.io/badge/OpenCV-white?logo=opencv" alt="OpenCV">'
+    - '<img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="PyTorch">'
+    - '<img src="https://img.shields.io/badge/HuggingFace-white?logo=huggingface" alt="HuggingFace">'
+    - '<img src="https://img.shields.io/badge/Nautilus-white?logo=nautilus" alt="Nautilus">'
+    - '<img src="https://img.shields.io/badge/Matlab-white?logo=matlab" alt="Matlab">'
+    - '<img src="https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue" alt="NumPy">'
+    - '<img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black" alt="Pandas">'
+
+  link: "https://doi.org/10.1016/j.jmapro.2025.03.123"
+
+- title: "An Unsupervised Approach Towards Promptable Porosity Segmentation In Laser Powder Bed Fusion By Segment Anything"
+  authors: "Israt Zarin Era, Imtiaz Ahmed, Srinjoy Das, Zhichao Liu"
+  description: "This paper proposes a novel framework that utilizes the Segment Anything Model (SAM) with unsupervised clustering-based prompt generation for automated porosity segmentation in XCT data, achieving over 80% Dice Similarity Coefficient (DSC) without supervised training or fine-tuning."
+  images: 
+   - "/assets/img/final_framework.png"
+   - "/assets/img/All_results_new.png"
+  skills:
+  - '<img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python">'
+  - '<img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="PyTorch">'
+  - '<img src="https://img.shields.io/badge/OpenCV-white?logo=opencv&logoColor=white" alt="OpenCV">'
+  - '<img src="https://img.shields.io/badge/Scikit--learn-white?logo=scikit-learn" alt="ScikitLearn">'
+  - '<img src="https://img.shields.io/badge/Nautilus-white?style=flat-square" alt="Nautilus">'
+  - '<img src="https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue" alt="NumPy">'
+  - '<img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black" alt="Pandas">'
+
+
+  link: "https://doi.org/10.1038/s44334-025-00021-4"
+
+- title: "Prediction of mechanical behaviors of L-DED fabricated SS 316L parts via machine learning"
+  authors: "Israt Zarin Era, Manikanta Grandhi, Zhichao Liu"
+  description: "This study presents data-driven models utilizing XGBoost and Random Forest to predict the tensile properties of the DED process, minimizing the reliance on extensive experimental trials. XGBoost demonstrated superior predictive performance, achieving lower RMSE values of 11.38 MPa for yield strength, 12.22 MPa for ultimate tensile strength, and 3.22% for elongation. Additionally, XGBoost exhibited higher R² values (76%, 72%, and 85%) and lower relative errors compared to Random Forest, highlighting its effectiveness in modeling mechanical behavior."
+  images:
+  - "/assets/img/xgboost.png"
+  - "/assets/img/rf.png"
+  - "/assets/img/table_xgboost.png"
+  skills:
+  - '<img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python">'
+  - '<img src="https://img.shields.io/badge/Scikit--learn-white?logo=scikit-learn" alt="ScikitLearn">'
+  - '<img src="https://img.shields.io/badge/PyCharm-white?logo=pycharm" alt="PyCharm">'
+  - '<img src="https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue" alt="NumPy">'
+  - '<img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black" alt="Pandas">'
+  link: "https://doi.org/10.1007/s00170-022-09509-1"
+- title: "Effect of process parameters on tensile properties of SS 316 prepared by directional energy deposition"
+  authors: "Israt Zarin Era, Zhichao Liu"
+  description: "This work analyzes the influence of process parameters on the mechanical properties of fabricated parts by leveraging F-score from the XGBoost machine learning model."
+
+  skills:
+  - '<img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python">'
+  - '<img src="https://img.shields.io/badge/Scikit--learn-white?logo=scikit-learn" alt="ScikitLearn">'
+  - '<img src="https://img.shields.io/badge/PyCharm-white?logo=pycharm" alt="PyCharm">'
+  - '<img src="https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue" alt="NumPy">'
+  - '<img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black" alt="Pandas">'
+  link: "https://doi.org/10.1016/j.procir.2021.10.018"
+  

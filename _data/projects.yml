@@ -1,0 +1,76 @@
+
+- title: "Data Augmentation for Class Imbalance (Ongoing Project)"
+  description: "In this project, I am working to handle the class imbalance problem in thermal data using a diffusion model for data augmentation. I utilized a U-Net with self-attension and positional encoding with a cosine noise scheduler to generate synthetic samples, aiming to enhance the performance of the Vision Transformer classifier."
+  skills:
+    - '<img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python">'
+    - '<img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="PyTorch">'
+    - '<img src="https://img.shields.io/badge/HuggingFace-white?logo=huggingface" alt="HuggingFace">'
+    - '<img src="https://img.shields.io/badge/Nautilus-white?logo=nautilus" alt="Nautilus">'
+    - '<img src="https://img.shields.io/badge/Matlab-white?logo=nautilus" alt="Matlab">'
+    - '<img src="https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue" alt="NumPy">'
+    - '<img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black" alt="Pandas">'
+
+
+    
+  image: "/assets/img/thermal_diffusion.png"
+ 
+
+- title: "Hybrid Deep Learning Framework for Lung Segmentation and COVID-19 Detection (Ongoing Project)"
+  description: "I developed a hybrid deep learning framework using U-Net for lung segmentation, achieving a Dice Similarity Score of up to 96%. Additionally, I implemented Vision Transformers for multi-class classification of COVID-19, Lung Opacity, and Viral Pneumonia from chest X-rays, attaining an average accuracy of up to 95%."
+  # link: "https://github.com/IE0005/Pavement_crack_detect.git"
+  skills:
+    - '<img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python">'
+    - '<img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="PyTorch">'
+    - '<img src="https://img.shields.io/badge/HuggingFace-white?logo=huggingface" alt="HuggingFace">'
+    - '<img src="https://img.shields.io/badge/Nautilus-white?logo=nautilus" alt="Nautilus">'  
+    - '<img src="https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue" alt="NumPy">'
+    - '<img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black" alt="Pandas">'
+
+  
+  image: "/assets/img/covid_xray.png"
+
+- title: "Pavement crack detection using Deep learning"
+  description: "This project uses deep learning for automated pavement crack detection via semantic segmentation. I trained U-Net (ResNet-34) and SegNet (VGG-13) on the Crack500 dataset, with U-Net achieving 96% accuracy, outperforming SegNet’s 95%. U-Net’s ResNet-34 encoder preserves spatial details better than SegNet’s VGG-13, leading to improved segmentation."
+  skills:
+    - '<img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python">'
+    - '<img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="PyTorch">'
+    - '<img src="https://img.shields.io/badge/Jupyter-white?logo=jupyter" alt="Jupyter">'
+    - '<img src="https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue" alt="NumPy">'
+    
+  link: "https://github.com/IE0005/Pavement_crack_detect.git"
+  image: "/assets/img/Pavement_Crack_Detection.png"
+  accuracy_curve_unet: "/assets/img/unet.png"
+  
+- title: "Anomaly Detection using Variational Autoencoder and unsupervised clustering"
+  description: "I applied unsupervised clustering models, including K-means and Gaussian Mixture Model, on the latent space of a Variational Autoencoder (VAE), achieving 95% accuracy for unsupervised anomaly detection in thermal image datasets."
+  skills:
+     - '<img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python">'
+     - '<img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="PyTorch">'
+     - '<img src="https://img.shields.io/badge/Jupyter-white?logo=jupyter" alt="Jupyter">'
+     - '<img src="https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue" alt="NumPy">'
+     - '<img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black" alt="Pandas">'
+  
+  link: "https://github.com/IE0005/Anomaly_detection_.git"
+  image: "/assets/img/anomaly_det.png"
+
+  
+- title: "Hospital Management Systems Database"
+  description: "I designed and implemented an SQLite database to manage hospital operations, including patient records, doctor schedules, appointments, billing, and inventory. The system tracks machine availability and integrates patient-doctor interactions for efficient scheduling. Using Python and the Faker library, I generated realistic synthetic data for patients, doctors, inventory, and appointments. The database enables efficient analytical queries for hospital resource management."
+  skills:
+     - '<img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python">'
+     - '<img src="https://img.shields.io/badge/SQL-white?logo=sql" alt="SQL">'
+     - '<img src="https://img.shields.io/badge/Jupyter-white?logo=jupyter" alt="Jupyter">'
+     - '<img src="https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue" alt="NumPy">'
+     - '<img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black" alt="Pandas">'
+  link: "https://github.com/IE0005/hospital_management_database.git"
+  image: "/assets/img/Hospital_management_database.png"
+
+  
+
+
+
+
+  
+
+  
+  
